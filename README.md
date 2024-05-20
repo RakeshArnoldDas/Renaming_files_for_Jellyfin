@@ -23,7 +23,7 @@ can do this for you,follow the guide below step by step, and I've been testing i
 <h4 align="left"> Double click the file and a termianl window should open up, go ahead and enter the season number and hit enter, right click the folder conataining the files and copy as path, you can also go ahead and use the windows shortcut key Cntrl+Shift+C and paste it into the terminal, hit enter and the files should be renamed.
 
 <h2>
-<img src="https://media.giphy.com/media/kPf7JoamNzlRZHFvhg/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczEwOGd4eHFuc2wzazgzdHo5bHdidzRoMzQzZW5zdjduMW00YTFoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gkecZxkfFRypjhHvCk/giphy.gif" width="500"/>
 </div>
 
 
